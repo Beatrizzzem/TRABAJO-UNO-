@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>
+      Noticias UTEM
+    </title>
+    <style>
+      body{        
+        background-color:paleturquoise;
+      }
+      table,tr,th,td{
+        border: 1px solid black;
+      }
+      div{
+        border: 1px lightpink;
+        margin: 20 px;
+        padding: 30 px;
+      }
+      .recuadro1{
+        border-color: solid black
+      }
+      .recuadro2{
+        border-color: solid black
+      }
+      .recuadro3{
+        border-color: solid black
+     }
+      .recuadro4{
+        border-color: solid black 
+     }
+      .recuadro5{
+        border-color: solid black
+     }
+    </style>
+  </head>
+  <body>
+    <div>
+    <h1 class="recuadro1"
